@@ -1,2 +1,4 @@
 /build*/
 /*.elf
+/syscrash/*.cia
+/syscrash/*.elf
